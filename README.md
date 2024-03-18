@@ -7,3 +7,9 @@ The goal is to expose a very minimal API surface and basic operators to give the
 ## Considerations
 
 Many concepts are omitted on purpose. They may appear later if needed.
+
+## TODO Roland
+
+ - flatMap
+ - throttle
+ - Observable.combineLatest
